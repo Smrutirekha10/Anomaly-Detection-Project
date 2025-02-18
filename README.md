@@ -1,6 +1,6 @@
-Anomaly Detection in Smartphone Datasets
+📌 Anomaly Detection in Smartphone Datasets
 
-📌 Project Overview
+Project Overview
 
 This project focuses on implementing anomaly detection techniques on smartphone datasets collected from densely populated environments. By leveraging statistical and machine learning methods, we aim to develop a robust model capable of differentiating between normal and anomalous behavior in smartphone usage.
 
